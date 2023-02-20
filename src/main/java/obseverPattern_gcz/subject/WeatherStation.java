@@ -1,4 +1,4 @@
-package obseverPattern_gcz;
+package obseverPattern_gcz.subject;
 
 import obseverPattern_gcz.domain.CurrentConditionsDisplay;
 import obseverPattern_gcz.domain.ForecastDisplay;
